@@ -13,4 +13,14 @@
     "name" : "Kevin Hart",
         "singer":true
     }
+        "Tracy" : {
+        "full name" : "Tracy Mcgrady",
+        "other names" : ["T-mac"],
+        "wikipedia" : "https://en.wikipedia.org/wiki/Tracy_McGrady",
+        "born" : 1979,
+        "place of birth" : "Florida, US",
+        "height_inches" : 79,
+        "author" : false,
+        "tv show" : null
+    }
 }
