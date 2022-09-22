@@ -11,6 +11,6 @@
     },
     "kevin" : {
     "name" : "Kevin Hart",
-        "singer":true
+    "singer" : true
     }
 }
