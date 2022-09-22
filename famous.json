@@ -9,10 +9,7 @@
         "author" : false,
         "tv show" : null
     },
-    "kevin" : {
-    "name" : "Kevin Hart",
-        "singer":true
-    }
+
         "Tracy" : {
         "full name" : "Tracy Mcgrady",
         "other names" : ["T-mac"],
