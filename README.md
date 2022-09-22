@@ -10,7 +10,7 @@ Watch this [video](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=
 - [x] REST_APIs, Get requests
 - [x] JSON
 - [x] Environment variables
-- [ ] Github basics
+- [X] Github basics
 - [ ] DataFrames
 - [ ] Kmeans clustering
 
