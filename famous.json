@@ -9,8 +9,15 @@
         "author" : false,
         "tv show" : null
     },
-    "kevin" : {
-    "name" : "Kevin Hart",
-    "singer" : true
+    
+    "Stephen" : {
+        "name" : "Stephen Curry",
+        "athlete" : true,
+        "wikipedia" : "https://en.wikipedia.org/wiki/Stephen_Curry",
+        "born" : 1988,
+        "number_of_children" : 2,
+        "religion" : "Christianity",
+        "three_point_shooter" : true,
+        "college" : "Davidson"
     }
 }
