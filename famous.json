@@ -30,5 +30,16 @@
         "religion" : "Christianity",
         "three_point_shooter" : true,
         "college" : "Davidson"
-    }
+    },
+   
+    "Viggo" : {
+		"full name": "Viggo Mortensen",
+		"actor": true,
+		"wikipedia": "https://en.wikipedia.org/wiki/Viggo_Mortensen",
+		"born": 1958,
+		"place of birth": "New York, US",
+		"height_inches": 71,
+		"author": true,
+		"movie": "The Lord of the Rings"
+	}
 }
