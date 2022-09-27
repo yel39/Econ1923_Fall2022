@@ -41,5 +41,16 @@
 		"height_inches": 71,
 		"author": true,
 		"movie": "The Lord of the Rings"
-	}
+	},
+	
+	"serena" : {
+		"full name" : " Serena Williams",
+		"wikipedia" : "https://en.wikipedia.org/wiki/Serena_Williams",
+		"born" : 1981,
+		"place of birth" : "Saginaw, Michigan",
+		"height_inches" : 69,
+		"athlete" : true,
+		"sport" : "tennis",
+		"author" : true
+    }
 }
