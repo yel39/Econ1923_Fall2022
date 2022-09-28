@@ -52,5 +52,17 @@
 		"athlete" : true,
 		"sport" : "tennis",
 		"author" : true
-    }
+    },
+	"brian" : {
+		"full name" : "Brian Dawkins",
+		"other names" : ["Weapon X"],
+		"wikipedia" : "https://en.wikipedia.org/wiki/Brian_Dawkins",
+		"born" : 1973,
+		"place of birth" : "Jacksonville, Florida",
+		"height_inches" : 72,
+		"athlete" : true,
+		"sport" : "football",
+		"teams" : ["The Philadelphia Eagles", "The Denver Broncos"]
+	},
+		
 }
