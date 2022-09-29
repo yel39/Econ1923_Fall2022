@@ -1,11 +1,11 @@
 { 
-    "dwayne" : {
-        "full name" : "Dwayne Johnson",
-        "other names" : ["The Rock", "Flex Kavana", "Rocky Maiva"],
-        "wikipedia" : "https://en.wikipedia.org/wiki/Dwayne_Johnson",
-        "born" : 1972,
-        "place of birth" : "Hayward, Callifornia",
-        "height_inches" : 77,
+    "yeqi" : {
+        "full name" : "Lisa",
+        "other names" : ["Lalisa Manoban"],
+        "wikipedia" : "https://zh.wikipedia.org/wiki/Lisa_(%E6%B3%B0%E5%9C%8B%E6%AD%8C%E6%89%8B)",
+        "born" : 1997,
+        "place of birth" : "Brambria Manoban",
+        "height_inches" : 64,
         "author" : false,
         "tv show" : null
     },
