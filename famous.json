@@ -64,5 +64,16 @@
 		"sport" : "football",
 		"teams" : ["The Philadelphia Eagles", "The Denver Broncos"]
 	},
+	
+	"jason" : {
+		"full name" : "Jason Alexander",
+		"actor" : true,
+		"wikipedia" : "https://en.wikipedia.org/wiki/Jason_Alexander",
+		"born" : 1959,
+		"place of birth" : "Newark, New Jersey",
+		"height_inches" : 65,
+		"tv show" : ["Seinfeld", "Young Sheldon", "Curb Your Enthusiasm"],
+		"author" : true
+	}
 		
 }
