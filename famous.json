@@ -65,7 +65,6 @@
 		"teams" : ["The Philadelphia Eagles", "The Denver Broncos"]
 	},
 	
-	},
 	"jason" : {
 		"full name" : "Jason Alexander",
 		"actor" : true,
@@ -75,6 +74,6 @@
 		"height_inches" : 65,
 		"tv show" : ["Seinfeld", "Young Sheldon", "Curb Your Enthusiasm"],
 		"author" : true
-	},
+	}
 		
 }
