@@ -74,6 +74,17 @@
 		"height_inches" : 65,
 		"tv show" : ["Seinfeld", "Young Sheldon", "Curb Your Enthusiasm"],
 		"author" : true
+	},
+	
+	"Lisa" : { 
+               "full name" : "Lalisa Manoban",
+               "wikipedia" : "https://zh.wikipedia.org/wiki/Lisa_(%E6%B3%B0%E5%9C%8B%E6%AD%8C%E6%89%8B)",
+               "born" : 1997,
+               "place of birth" : "Brambria Manoban",
+               "height_inches" : 64,
+	       "author" : false,
+               "tv show" : null
 	}
+
 		
 }
